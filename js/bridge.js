@@ -4,7 +4,7 @@
 // #bridgeCurrenciesList
 // #bridgeAmountTo
 // #bridgeSubmit
-const MIN_LLC_VAL = 850;
+const MIN_LLC_VAL = 5;
 const MAX_CNT_IN_DROP_DOWN = 12;
 
 // setTimeout(function() {
@@ -15,7 +15,7 @@ const MAX_CNT_IN_DROP_DOWN = 12;
 var Modal = (function(jq, d) {
     var GrapheneConnection = function() {
         this.getBaseUrl = function() {
-            return "https://de.localcoin.is/";
+            return "https://ke.commodity.llc/";
         }
 
         this.send = function(cb, method, params) {
@@ -202,7 +202,7 @@ var Modal = (function(jq, d) {
                 } catch(ex) {}
 
                 dis();
-            }, 850);
+            }, 5);
             //**********************
 
             //init amount
@@ -361,7 +361,7 @@ var Modal = (function(jq, d) {
             jq("#bridgeFormAddress").show();
 
             jq("#bridgeFormInputAsset").html(asset);
-            jq("#bridgeFormInputAsset").attr("href", "https://wallet.localcoin.is/asset/"+asset+"/");
+            jq("#bridgeFormInputAsset").attr("href", "https://wallet.commodity.llc/asset/"+asset+"/");
             jq("#bridgeFormInputAddress").val(address);
             jq("#bridgeFormInputMinimalAmount a").html(minimalAmount);
 
@@ -423,7 +423,7 @@ var Modal = (function(jq, d) {
         };
 
         this.getActive = function() {
-            return jq("#bridgeCurrency").val() == "" ? "BTC" : jq("#bridgeCurrency").val();
+            return jq("#bridgeCurrency").val() == "" ? "USD" : jq("#bridgeCurrency").val();
         };
 
         this.setActive = function(key, value) {
