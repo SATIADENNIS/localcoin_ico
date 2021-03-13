@@ -2,7 +2,7 @@
         <div class="container">
           <div class="getfree__logo"><img src="./../img/d-logo.png" srcset="./../img/d-logo-2x.png 2x" alt="logo"></div>
           <h2 class="wow fadeInUp">Get <span>LLC </span>AirDrop NOW<span>!!!</span></h2>
-          <p class="wow fadeInUp">The first 100 000 users receive 30+ LLC coins</p><a class="getfree__btn btn-yellow" href="https://t.me/LocalCoinIS">Get LLC NOW!</a>
+          <p class="wow fadeInUp">The first 100 000 users receive 1+ LLC asset</p><a class="getfree__btn btn-yellow" href="https://t.me/LocalCoinIS">Get LLC NOW!</a>
         </div>
       </section>
       <footer class="footer" id="footer">
@@ -25,7 +25,7 @@
           <ul class="footer__links">
             <li><a class="footer__wl" href="/whitelabel">White Label</a></li>
             <li><a class="footer__wp" href="https://localcoin.is/downloads/LocalCoinBlockchain.pdf" target="_blank">White Paper</a></li>
-            <li><a class="btn-blue" onclick="gtag('event', 'buy', {'event_category': 'footer'});"  id="buy_coin_footer" href="#">Buy LLC coin</a></li>
+            <li><a class="btn-blue" onclick="gtag('event', 'buy', {'event_category': 'footer'});"  id="buy_coin_footer" href="#">Buy LLC token</a></li>
           </ul>
           <ul class="footer__nav wow fadeInUp">
             <li><a href="#main">Home</a></li>

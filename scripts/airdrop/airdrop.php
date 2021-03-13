@@ -8,7 +8,7 @@ $CSVname = 'airdrop-users.csv'; //user list for payments
 $arWitnessess = [
     'username' => 'LLC7qwEQtfjGZgUqRX5CmjZwxo7Qr5CboaqqmowjWWEVHx7Vb8Xmo'
 ];
-$walletPass = '351003'; // password to unlock cli-wallet
+$walletPass = 'testpass'; // password to unlock cli-wallet
 $start = microtime(true);
 
 
