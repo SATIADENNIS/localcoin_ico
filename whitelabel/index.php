@@ -7,7 +7,7 @@
           </ul>
           <div class="row">
             <div class="col-sm-6 col-md-8">
-				<h1 class="white-label__title"><span>White label </span> Decentralized autonomous organization</h1><span class="white-label__subtitle">Running your own cryptocurrency exchange website based upon the blockchain decentralized platform(The DAO) with a few clicks of a button.</span>
+				<h1 class="white-label__title"><span>White label </span> Decentralized autonomous organization</h1><span class="white-label__subtitle">Running your own blockchain (decentralized) platform with a few clicks of a button.</span>
             </div>
             <div class="col-sm-6 col-md-4">
             <form class="white-label__form wl-form" method = "POST" action="#">
@@ -38,13 +38,13 @@
               <div class="col-sm-6 col-md-4">
                 <div class="wl-advantages__item wl-advantages__item_01">
                   <h5>High performance</h5>
-                  <p>A liquidity-ready trading platform to help you launch a cryptocurrency exchange business within 2 weeks. Over 1500 coins, fiat gateways, stable coins and unmatched security and localisations — all included, without investing heavily in development and infrastructure. LocalCoin is one of the <a href="https://localcoin.is/#trading">fastest blockchain</a> existed on the market</p>
+                  <p>A liquidity-ready Amcc is one of the <a href="https://localcoin.is/#trading">fastest blockchain</a> existed on the market</p>
                 </div>
               </div>
               <div class="col-md-4">
                 <div class="wl-advantages__item wl-advantages__item_02">
                   <h5>Top-notch technology</h5>
-                  <p>We made the best of what BitShares had to offer and built <a href="https://localcoin.is/#advantages">better-designed platform</a>. Powered by Graphene, it can process more that 100k transactions every second which is much more than Bitcoin or Ethereum.</p>
+                  <p>We made the best of what Lmax Exchange had to offer and built <a href="https://localcoin.is/#advantages">better-designed platform</a>. It can process more that 180k transactions every second which is much more than Visa or MasterCard combined.</p>
                 </div>
               </div>
             </div>
@@ -58,7 +58,7 @@
               <div class="col-sm-6 col-md-4">
                 <div class="wl-advantages__item wl-advantages__item_04">
                   <h5>Scalability</h5>
-                  <p>Increase your revenues by implementing new crypto and fiat gateways as well as fees. You can do it in house or let LocalCoin do all the heavy lifting on a one-time payment or revenue-sharing basis.</p>
+                  <p>Increase your revenues by implementing Blockchain Tech  son a one-time payment or revenue-sharing basis.</p>
                 </div>
               </div>
             </div>
@@ -66,7 +66,7 @@
               <div class="col-sm-6 col-md-4">
                 <div class="wl-advantages__item wl-advantages__item_05">
                   <h5>Professional product team</h5>
-                  <p>A team of 50+ blockchain and cryptocurrency experts is working every day to improve the platform. We are constantly rolling out new gateways to let users trade world’s most wanted coins. Rest assured we’ll have you covered from the moment your exchange goes live.</p>
+                  <p>A team of 21+ blockchain and cryptocurrency experts is working every day to improve the platform. We are constantly rolling out new gateways to let users trade world’s most wanted coins. Rest assured we’ll have you covered from the moment your exchange goes live.</p>
                 </div>
               </div>
               <div class="col-sm-6 col-md-4">
@@ -83,7 +83,7 @@
             <div class="col-md-8">
               <div class="white-label__fees">
                 <h3>Fees</h3>
-                <p>LocalCoin DEX relies on NO trading fee structure, there are only fixed small fees applicable, just to cover the broadcasting, simply to push your transaction into the blockchain. See this document to learn more about <a href="https://wallet.localcoin.is/explorer/fees" target="_blank">LocalCoin's fees.</a></p>
+                <p>Amcc DEX relies on NO trading fee structure, there are only fixed small fees applicable, just to cover the broadcasting, simply to push your transaction into the blockchain. See this document to learn more about <a href="https://wallet.commodity.llc/explorer/fees" target="_blank">Amcc's fees.</a></p>
               </div>
               <div class="white-label__tech-req tech-req">
                 <h3>Technical requirements</h3>

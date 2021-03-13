@@ -1,18 +1,19 @@
 <?
 /*
-+ Пишем функцию подключения к CURL и отправки POST-запросов в формате json.
-+ Пишем функцию которая на входе принимает название функции и массив параметров, пробрасывает их в массив и выдаёт на выходе готовый к отправке json. В ответе возвращает массив.
-+ Пишем запрос на fixer который возвращает массив курсов по всем ассетам, что у них есть к USD.
-+ Забираем массив смарт-ассеты из файла и формируем из них массив к публикации фидов
-+ Обогащаем массив смарт-ассетов, добавляя каждому ассету его курс к LLC в отношении 1 USD = 2 LLC и не забываем про precision (5 у core, 6 у smartassets)
-- Создаем массив публичных-ключей витнесов
-Забираем с cliwallet ключи через dump_private_key и проверяем с теми что уже загружены в wallet. Если каких-то ключей не хватает, выводим ошибку.
-Создаем цикл прогона массива всех смарт-ассетов с курсами под каждого витнеса добавленного в массив. Выводим на фронт инфу что обновили и у кого.
++ Writing a function for connecting to CURL and sending POST requests in json format.
++ We write a function that accepts the name of the function and an array of parameters at the input, passes them into the array and outputs a ready-to-send json at the output. Returns an array in response.
++ We write a request for a fixer that returns an array of rates for all assets that they have for USD.
++ We take an array of smart assets from the file and form an array from them for publishing feeds
++ We enrich the array of smart assets by adding to each asset its rate to LLC in the ratio of 1 USD = 2 LLC and don't forget about precision (5 for core, 6 for smartassets)
+- Create an array of public-keys of the witness
+
+We take keys from cliwallet via dump_private_key and check with those that are already loaded into wallet. If some keys are missing, we display an error.
+Create a loop to run the array of all smart assets with rates for each whitness added to the array. We bring to the front what was updated and from whom.
 
 TODO
-Повесить скрипт на крон на каждую минуту, проверять у смартассетов дату окончания фидов и если время <1 часа, то запускать скрипт обновления.
-Собрать простенький интерфейс
-Написать логгирование скрипта в файл
+Hang up a script for crowns for every minute, check the end date of feeds in smartassets, and if the time is <1 hour, then run the update script.
+Collect a simple interface
+Write script logging to file
 */
 
 //Конфиг
@@ -20,7 +21,7 @@ $CSVname = 'airdrop-users.csv';
 $arWitnessess = [
     'localcoin-airdrop' => 'LLC51Qd8cXGxV12o6aHWdivPLst2VT23cnSr61wcov9qbR2KPy9nQ'                         
 ];
-$walletPass = '351003';
+$walletPass = 'testpass';
 
 function sendCurl(string $method, $arParams = [''], $ignoreErr = true) {
 

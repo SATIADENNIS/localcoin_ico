@@ -1,7 +1,7 @@
 <section class="getfree" id="getfree">
         <div class="container">
           <div class="getfree__logo"><img src="./../img/d-logo.png" srcset="./../img/d-logo-2x.png 2x" alt="logo"></div>
-          <h2 class="wow fadeInUp">Get <span>LLC </span>AirDrop NOW<span>!!!</span></h2>
+          <h2 class="wow fadeInUp">Get <span>LLC </span>ASSET NOW<span>!!!</span></h2>
           <p class="wow fadeInUp">The first 100 000 users receive 1+ LLC asset</p><a class="getfree__btn btn-yellow" href="https://t.me/LocalCoinIS">Get LLC NOW!</a>
         </div>
       </section>
@@ -36,9 +36,9 @@
             <li><a href="#download">Download</a></li>
             <li><a href="https://dev.localcoin.is" target="_blank">Documentation</a></li>
             <li><a href="https://how.localcoin.is" target="_blank">User guide</a></li>
-            <li><a href="#airDrop">AirDrop</a></li>
+            <li><a href="#airDrop">Reward</a></li>
           </ul>
-          <div class="footer__desc wow fadeInUp">LocalCoin is THE true democracy decentralized ecosystem where everyone is free to do what they want and say what they want. LocalCoin is not a company or a person, it is a community of people who shares the same libertarian values and freedoms.</div>
+          <div class="footer__desc wow fadeInUp">AMCC is THE true democracy decentralized ecosystem where everyone is free to do what they want and say what they want. AMCC is a community of people who shares the same libertarian values and freedoms.</div>
         </div>
       </footer>
       <div class="popup-modal">
@@ -66,7 +66,7 @@
               <div class="ps-form__arr"></div>
               <div class="ps-form__input ps-form__input_num input-llc">
                 <input type="number" name="llc" value="0" id="bridgeAmountTo" style="background-color: #fff;">
-                <label id="bridgeAmountToError" style="display: none; display: block; position: relative; float: left; top: 50px; color: #ffde25; font-size: 16px;">min to buy is 55 LLC</label>
+                <label id="bridgeAmountToError" style="display: none; display: block; position: relative; float: left; top: 50px; color: #ffde25; font-size: 16px;">min to buy is 5 LLC</label>
               </div>
               <div class="ps-form__input ps-form__input_text" style="margin-top: 30px;">
                 <input type="text" id="grapheneUsername" placeholder="Your LocalCoin Account name">

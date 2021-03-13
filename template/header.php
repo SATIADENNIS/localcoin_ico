@@ -40,7 +40,7 @@ function PR($o, $show = false) {
     <meta name="description" content="LocalCoin is the true democratic decentralized ecosystem where everyone is free to do what
 they want and how they want. LocalCoin is not a company or a person, it is a community of
 people who shares the same libertarian values and freedom.">
-    <title>LocalCoin is the true democratic decentralized ecosystem. DEX Localcoin.</title>
+    <title>AMCC is the true democratic decentralized trading ecosystem.</title>
     <!-- CSS-->
     <link href="/css/style.css" rel="stylesheet" media="screen">
   </head>

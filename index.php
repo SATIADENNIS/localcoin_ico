@@ -30,7 +30,7 @@
                         <h4>Decentralized <br>Bank</h4>
                         <div class="item-desc">
                           <h4>Decentralized <br>Bank</h4>
-                          <p>No one can block your wallet, Fully anonymous banking facility, Multisignature (multisig) accounts.</p>
+                          <p>Protect your password. No one can recover once lost! This is Fully secured 'banking' facility, with Multisignature (multisig) accounts.</p>
                         </div></a></div>
                     <div class="pre-sale__slide"><a class="ps-circuit__item ps-circuit__item_02 item-hover" href="#">
                         <div class="item-img item-img_02"><img src="img/icons/pre-sale_ico2.png" srcset="img/icons/pre-sale_ico2-2x.png 2x" alt="icon2"></div>
@@ -64,8 +64,8 @@
                         <div class="item-img item-img_06"><img src="img/icons/pre-sale_ico6.png" srcset="img/icons/pre-sale_ico6-2x.png 2x" alt="icon6"></div>
                         <h4>Mining</h4>
                         <div class="item-desc">
-                          <h4>Mining</h4>
-                          <p>Everyone can mine LLC by running a Activenode to support the network(CommonCloud).</p>
+                          <h4>Agency</h4>
+                          <p>Everyone can become LLC agent by running a Activenode to support the network(CommonCloud).</p>
                         </div></a></div>
                     <div class="pre-sale__slide"><a class="ps-circuit__item ps-circuit__item_07 item-hover" href="#">
                         <div class="item-img item-img_07"><img src="img/icons/pre-sale_ico7.png" srcset="img/icons/pre-sale_ico7-2x.png 2x" alt="icon7"></div>
@@ -91,9 +91,9 @@
               <div class="row">
                 <div class="col-md-6">
                   <div class="air-drop__left-block">
-                    <h3 class="wow fadeInUp"><a href="https://t.me/LocalCoinIS" target="_blank">Get you <span>first 50 </span>LLC for <span>free </span>NOW!</a></h3>
+                    <h3 class="wow fadeInUp"><a href="https://t.me/LocalCoinIS" target="_blank">Get you <span>first 1+ </span>LLC for <span>free </span>NOW!</a></h3>
                     <p class="wow fadeInUp">In order to get you LLC, you need to <a href="https://wallet.localcoin.is" target="_blank">register here</a> and type your ACCOUNT NAME <a href="https://t.me/LocalCoinIS" target="_blank">here</a>. Your wallet will be credited with LLC via telegram Bot after the reservation is over.</p>
-                    <div class="air-drop__chart-label wow fadeInUp"><span>0 </span>LLC AirDropped</div>
+                    <div class="air-drop__chart-label wow fadeInUp"><span>0 </span>LLC Top up</div>
                     <div class="air-drop__chart">
                       <div class="air-drop__chart-inner">
 <div class="line-chart">
@@ -103,17 +103,17 @@
 </div>
                       </div>
                     </div>
-                    <div class="air-drop__progress"><span class="s-left">0 LLC AirDropped</span>
-                      <div class="air-drop__progress-bar"><span class="s-left s-black">0 LLC AirDropped</span></div><span class="s-right">0 LLC left</span>
+                    <div class="air-drop__progress"><span class="s-left">0 LLC Top up</span>
+                      <div class="air-drop__progress-bar"><span class="s-left s-black">0 LLC Top up</span></div><span class="s-right">0 LLC left</span>
                     </div>
                   </div>
                 </div>
                 <div class="col-md-6">
                   <div class="air-drop__right-block wow fadeInUp" data-wow-duration="1.5s">
-                    <h3>Limited Airdrop</h3>
-                    <h4>We will AirDrop 10,000,000 Coins(LLC)</h4><span>to Telegram and Twitter users from 1st of April till the end of ICO Campaign</span>
+                    <h3>Limited Top ups</h3>
+                    <h4>We will AirDrop 10,000 Assets (LLC)</h4><span>to Telegram and Twitter users from 1st of April till the end of ICO Campaign</span>
                     <p>ON the 20th of April It'll be announced enhanced Bounty program with Twitter and Telegram participation. All scores of Grand AirDrop will be saved and announced to participants.</p>
-                    <div class="air-drop__reg-links"><a class="btn-yellow btn-yellow_small" href="https://t.me/LocalCoinIS" target="_blank">Register now</a><span><a href="#advantages">Click here </a>to understand why <a href="#advantages">LocalCoin is better </a>than others</span></div>
+                    <div class="air-drop__reg-links"><a class="btn-yellow btn-yellow_small" href="https://t.me/LocalCoinIS" target="_blank">Register now</a><span><a href="#advantages">Click here </a>to understand why <a href="#advantages">AMCC is better </a>than others</span></div>
                   </div>
                 </div>
               </div>
@@ -125,7 +125,7 @@
       <div class="container">
         <div class="row">
             <div class="col-md-10 offset-md-1 col-lg-8 offset-lg-2"><a class="advantages__video" href="https://www.youtube.com/watch?v=R77a3Jk1eTY?autoplay=1" data-fancybox=""><img src="img/video_bg.png" alt="video">
-                <h2 class="wow fadeInUp">Why LocalCoin</h2></a></div>
+                <h2 class="wow fadeInUp">Why Amcc</h2></a></div>
           </div>
           <div class="advantages__table-wrap" style="padding-top: 25px;">
             <div class="advantages__table">
@@ -135,28 +135,28 @@
                     <tr>
                       <th style="width:22%"> </th>
                       <th style="width:9%">
-                        <div class="t-logo"><img src="img/lc-logo.png" alt="logo"></div><span>LocalCoin.is</span>
+                        <div class="t-logo"><img src="img/lc-logo.png" alt="logo"></div><span>commodity.llc</span>
                       </th>
                       <th style="width:9%">
-                        <div class="t-logo"><img src="img/lbc-logo.png" alt="logo"></div><span>LocalBitcoin</span>
+                        <div class="t-logo"><img src="img/lbc-logo.png" alt="logo"></div><span>Localusd</span>
                       </th>
                       <th style="width:9%">
-                        <div class="t-logo"><img src="img/gdax.png" alt="logo"></div><span>GDAX</span>
+                        <div class="t-logo"><img src="img/gdax.png" alt="logo"></div><span>GDAoooX</span>
                       </th>
                       <th style="width:9%">
-                        <div class="t-logo"><img src="img/okex.png" alt="logo"></div><span>OKEx</span>
+                        <div class="t-logo"><img src="img/okex.png" alt="logo"></div><span>OKE0000x</span>
                       </th>
                       <th style="width:9%">
-                        <div class="t-logo"><img src="img/bin.png" alt="logo"></div><span>Binance</span>
+                        <div class="t-logo"><img src="img/bin.png" alt="logo"></div><span>B000oo</span>
                       </th>
                       <th style="width:9%">
-                        <div class="t-logo"><img src="img/bitf.png" alt="logo"></div><span>Bitfinex</span>
+                        <div class="t-logo"><img src="img/bitf.png" alt="logo"></div><span>Knmnm</span>
                       </th>
                       <th style="width:9%">
-                        <div class="t-logo"><img src="img/huobi.png" alt="logo"></div><span>Huobi</span>
+                        <div class="t-logo"><img src="img/huobi.png" alt="logo"></div><span>OMMN</span>
                       </th>
                       <th style="width:9%">
-                        <div class="t-logo"><img src="img/hitbtc.png" alt="logo"></div><span>HitBTC</span>
+                        <div class="t-logo"><img src="img/hitbtc.png" alt="logo"></div><span>iijjjj</span>
                       </th>
                       <th> </th>
                     </tr>
@@ -191,28 +191,28 @@
                     <tr>
                       <th style="width:22%"> </th>
                       <th style="width:9%">
-                        <div class="t-logo"><img src="img/lc-logo.png" alt="logo"></div><span>LocalCoin.is</span>
+                        <div class="t-logo"><img src="img/lc-logo.png" alt="logo"></div><span>commodity.llc</span>
                       </th>
                       <th style="width:9%">
                         <div class="t-logo"><img src="img/lbc-logo.png" alt="logo"></div><span>LocalBitcoin</span>
                       </th>
                       <th style="width:9%">
-                        <div class="t-logo"><img src="img/gdax.png" alt="logo"></div><span>GDAX</span>
+                        <div class="t-logo"><img src="img/gdax.png" alt="logo"></div><span>GD00000</span>
                       </th>
                       <th style="width:9%">
-                        <div class="t-logo"><img src="img/okex.png" alt="logo"></div><span>OKEx</span>
+                        <div class="t-logo"><img src="img/okex.png" alt="logo"></div><span>O00000</span>
                       </th>
                       <th style="width:9%">
-                        <div class="t-logo"><img src="img/bin.png" alt="logo"></div><span>Binance</span>
+                        <div class="t-logo"><img src="img/bin.png" alt="logo"></div><span>Booooo</span>
                       </th>
                       <th style="width:9%">
-                        <div class="t-logo"><img src="img/bitf.png" alt="logo"></div><span>Bitfinex</span>
+                        <div class="t-logo"><img src="img/bitf.png" alt="logo"></div><span>B00000</span>
                       </th>
                       <th style="width:9%">
-                        <div class="t-logo"><img src="img/huobi.png" alt="logo"></div><span>Huobi</span>
+                        <div class="t-logo"><img src="img/huobi.png" alt="logo"></div><span>H00000</span>
                       </th>
                       <th style="width:9%">
-                        <div class="t-logo"><img src="img/hitbtc.png" alt="logo"></div><span>HitBTC</span>
+                        <div class="t-logo"><img src="img/hitbtc.png" alt="logo"></div><span>HitopC</span>
                       </th>
                       <th> </th>
                     </tr>
@@ -275,7 +275,7 @@
                       <td> </td>
                     </tr>
                     <tr>
-                      <td class="text-left">Anonymity</td>
+                      <td class="text-left">Privacy</td>
                       <td>
                         <div class="t-plus"></div>
                       </td>
@@ -668,7 +668,7 @@
                     </tr>
                     <tr>
                       <td class="text-left">Transactions per second</td>
-                      <td class="t-best">100k</td>
+                      <td class="t-best">180k</td>
                       <td class="t-na">n.a.</td>
                       <td class="t-na">n.a.</td>
                       <td class="t-na">n.a.</td>
@@ -760,7 +760,7 @@
                       <td> </td>
                     </tr>
                     <tr>
-                      <td class="text-left">Core coin</td>
+                      <td class="text-left">Core Asset</td>
                       <td class="t-best">LLC</td>
                       <td>
                         <div class="t-minus"></div>
@@ -771,7 +771,7 @@
                       <td>
                         <div class="t-minus"></div>
                       </td>
-                      <td class="t-best">BNB</td>
+                      <td class="t-best">BooB</td>
                       <td>
                         <div class="t-minus"></div>
                       </td>
@@ -820,7 +820,7 @@
       </section>
       <section class="trading" id="trading">
         <div class="container">
-          <h1 class="wow fadeInUp center">LocalCoin DEX Trading Terminal</h1>
+          <h1 class="wow fadeInUp center">Commodity Trading Terminal</h1>
           <div class="row">
             <div class="col-md-6 offset-md-6">
               <div class="trading__item trading__item_01 wow fadeInUp">
@@ -829,7 +829,7 @@
               </div>
               <div class="trading__item trading__item_02 wow fadeInUp">
                 <h5>High performance</h5>
-                <p>A Blockchain-based system that handles 100,000 transactions per second, with Bitcoin and Ethereum being not even close to that.</p>
+                <p>A Blockchain-based system that handles 180,000 transactions per second, with Bitcoin and Ethereum being not even close to that.</p>
               </div>
               <div class="trading__item trading__item_03 wow fadeInUp">
                 <h5>Stealth mode</h5>
@@ -861,7 +861,7 @@
                 </div>
                 <div class="tokeninfo__chart-legend chart-legend" id="sharesChartLegend">
                   <ul>
-                    <li class="chart-legend__item chart-legend__item_01 wow fadeInUp"><a href="#airDrop" data-value="10%">10% (10 000 000 LLC) <br>Air-Drop<span>Automatically paid into the very first 100 000 registered accounts</span></a></li>
+                    <li class="chart-legend__item chart-legend__item_01 wow fadeInUp"><a href="#airDrop" data-value="10%">10% (10 000 LLC) <br>Air-Drop<span>Automatically paid into the very first 100 000 registered accounts</span></a></li>
                     <li class="chart-legend__item chart-legend__item_02 wow fadeInUp"><a href="#" data-value="10%">10% (10 000 000 LLC) <br>Bounty Program<span>allocated to bounty program for community engagement</span></a></li>
                     <li class="chart-legend__item chart-legend__item_03 wow fadeInUp"><a href="#preSale" data-value="80%">80% (80 000 000 LLC) <br>Public Crowdsale<span>no maximum allocation to investors through entire crowdsale without burn of unsold</span></a></li>
                     <li class="chart-legend__desc wow fadeInUp"><a href="#">1 000 000 000 LLC <br>Development team<span>allocated to the development team (frozen by contract for 1 year)</span></a></li>
@@ -887,14 +887,14 @@
                 <div class="row">
                   <div class="col-sm-4 col-lg-12">
                     <ul class="details-col-1">
-                      <li class="wow fadeInUp"><span>Name</span>LocalCoin</li>
+                      <li class="wow fadeInUp"><span>Name</span>Amcc</li>
                       <li class="wow fadeInUp"><span>Symbol</span>LLC</li>
-                      <li class="wow fadeInUp"><span>Timestamping scheme</span>Delegated Proof of Stake and Proof-of-node</li>
+                      <li class="wow fadeInUp"><span>Timestamping scheme</span>Dpos Stake and Proof-of-node</li>
                     </ul>
                   </div>
                   <div class="col-sm-4 col-lg-12">
                     <ul class="details-col-2">
-                      <li class="wow fadeInUp"><span>Transparency</span>Open source</li>
+                      <li class="wow fadeInUp"><span>Transparency</span>Open</li>
                       <li class="wow fadeInUp"><span>Block time</span>2 seconds</li>
                       <li class="wow fadeInUp"><span>Witness Block reward</span>0.65 LLC</li>
                     </ul>
@@ -902,14 +902,14 @@
                   <div class="col-sm-4 col-lg-12">
                     <ul class="details-col-3">
                       <li class="wow fadeInUp"><span>Activenode Block reward</span>0.065 LLC</li>
-                      <li class="wow fadeInUp"><span>LLC maximum total supply</span>3 600 000 000 LLC</li>
+                      <li class="wow fadeInUp"><span>LLC maximum total supply</span>99 000 000 000 000 LLC</li>
                       <li class="wow fadeInUp"><span>Initial total issue</span>1 100 000 000  LLC</li>
                     </ul>
                   </div>
                   <div class="col-sm-4 col-lg-12">
                     <ul class="details-col-4">
                       <li class="wow fadeInUp"><span>Circulating supply</span>1 100 000 000  LLC</li>
-                      <li class="wow fadeInUp"><span>Initial 1 LLC ICO price</span>$ 0.5 US Dollar (USD)</li>
+                      <li class="wow fadeInUp"><span>Initial 1 LLC price</span>$ 10 US Dollar (USD)</li>
                       <li class="wow fadeInUp"><span>Available through pre-ICO</span>80 000 000 LLC</li>
                     </ul>
                   </div>
@@ -925,82 +925,82 @@
           <div class="roadmap__desk">
             <div class="rocket"></div>
             <div class="r-item r-item_01">
-              <div class="r-item__label"><span class="r-item__year">2018</span><span class="r-item__month">January</span>
+              <div class="r-item__label"><span class="r-item__year">2021</span><span class="r-item__month">January</span>
                 <div class="r-item__desc">Founded</div>
               </div>
             </div>
             <div class="r-item r-item_02">
-              <div class="r-item__label"><span class="r-item__year">2018</span><span class="r-item__month">February</span>
+              <div class="r-item__label"><span class="r-item__year">2021</span><span class="r-item__month">February</span>
                 <div class="r-item__desc">Initial team members <br>established</div>
               </div>
             </div>
             <div class="r-item r-item_03">
-              <div class="r-item__label"><span class="r-item__year">2018</span><span class="r-item__month">April</span>
+              <div class="r-item__label"><span class="r-item__year">2021</span><span class="r-item__month">April</span>
                 <div class="r-item__desc">Concept development</div>
               </div>
             </div>
             <div class="r-item r-item_04">
-              <div class="r-item__label"><span class="r-item__year">2018</span><span class="r-item__month">August</span>
+              <div class="r-item__label"><span class="r-item__year">2021</span><span class="r-item__month">August</span>
                 <div class="r-item__desc">Gateway for cryptocurrencies release</div>
               </div>
             </div>
             <div class="r-item r-item_05">
-              <div class="r-item__label"><span class="r-item__month">October</span><span class="r-item__year">2018</span>
+              <div class="r-item__label"><span class="r-item__month">October</span><span class="r-item__year">2021</span>
                 <div class="r-item__desc">Web GUI</div>
               </div>
             </div>
             <div class="r-item r-item_06">
-              <div class="r-item__label"><span class="r-item__month">November</span><span class="r-item__year">2018</span>
+              <div class="r-item__label"><span class="r-item__month">November</span><span class="r-item__year">2021</span>
                 <div class="r-item__desc">Official White Paper</div>
               </div>
             </div>
             <div class="r-item r-item_07">
-              <div class="r-item__label"><span class="r-item__month">December</span><span class="r-item__year">2018</span>
+              <div class="r-item__label"><span class="r-item__month">December</span><span class="r-item__year">2021</span>
                 <div class="r-item__desc">Mac/Win/Linux GUI apps</div>
               </div>
             </div>
             <div class="r-item r-item_08">
-              <div class="r-item__label"><span class="r-item__month">January</span><span class="r-item__year">2019</span>
+              <div class="r-item__label"><span class="r-item__month">January</span><span class="r-item__year">2022</span>
                 <div class="r-item__desc">Proof-of-node release</div>
               </div>
             </div>
             <div class="r-item r-item_09">
-              <div class="r-item__label"><span class="r-item__year">2019</span><span class="r-item__month">February</span>
+              <div class="r-item__label"><span class="r-item__year">2022</span><span class="r-item__month">February</span>
                 <div class="r-item__desc">Official Blockchain Launch</div>
               </div>
             </div>
             <div class="r-item r-item_10">
-              <div class="r-item__label"><span class="r-item__year">2019</span><span class="r-item__month">February</span>
+              <div class="r-item__label"><span class="r-item__year">2022</span><span class="r-item__month">February</span>
                 <div class="r-item__desc">AirDrop</div>
               </div>
             </div>
             <div class="r-item r-item_11">
-              <div class="r-item__label"><span class="r-item__year">2019</span><span class="r-item__month">February</span>
+              <div class="r-item__label"><span class="r-item__year">2022</span><span class="r-item__month">February</span>
                 <div class="r-item__desc">LocalCoin ICO and coin pre-sale launch</div>
               </div>
             </div>
             <div class="r-item r-item_12">
-              <div class="r-item__label"><span class="r-item__year">2019</span><span class="r-item__month">February</span>
+              <div class="r-item__label"><span class="r-item__year">2022</span><span class="r-item__month">February</span>
                 <div class="r-item__desc">DEX (decentralised exchange) launch</div>
               </div>
             </div>
             <div class="r-item r-item_13">
-              <div class="r-item__label"><span class="r-item__month">March</span><span class="r-item__year">2019</span>
+              <div class="r-item__label"><span class="r-item__month">March</span><span class="r-item__year">2022</span>
                 <div class="r-item__desc">Gateway for additional cryptocurrencies</div>
               </div>
             </div>
             <div class="r-item r-item_14">
-              <div class="r-item__label"><span class="r-item__month">July</span><span class="r-item__year">2019</span>
+              <div class="r-item__label"><span class="r-item__month">July</span><span class="r-item__year">2022</span>
                 <div class="r-item__desc">Airdrop: Second round</div>
               </div>
             </div>
             <div class="r-item r-item_15 r-item-coming">
-              <div class="r-item__label"><span class="r-item__month">Q4</span><span class="r-item__year">2019</span>
-                <div class="r-item__desc">LocalCoin OTC release</div>
+              <div class="r-item__label"><span class="r-item__month">Q4</span><span class="r-item__year">2022</span>
+                <div class="r-item__desc">AMCC OTC release</div>
               </div>
             </div>
             <div class="r-item r-item_16 r-item-coming">
-              <div class="r-item__label"><span class="r-item__month">Q4</span><span class="r-item__year">2019</span>
+              <div class="r-item__label"><span class="r-item__month">Q4</span><span class="r-item__year">2022</span>
                 <div class="r-item__desc">GUI blind transactions release</div>
               </div>
             </div>
@@ -1010,103 +1010,103 @@
               <ul class="row">
                 <li class="col-sm-4 col-lg-3 wow fadeInUp">
                   <div class="r-item-mob r-item-mob_complete">
-                    <div class="r-item-mob__header"><span class="r-item-mob__year">2018</span><span class="r-item-mob__month">January</span></div>
+                    <div class="r-item-mob__header"><span class="r-item-mob__year">2021</span><span class="r-item-mob__month">January</span></div>
                     <div class="r-item-mob__body"><span class="r-item-mob__desc">Founded</span></div>
                   </div>
                 </li>
                 <li class="col-sm-4 col-lg-3 wow fadeInUp">
                   <div class="r-item-mob r-item-mob_complete">
-                    <div class="r-item-mob__header"><span class="r-item-mob__year">2018</span><span class="r-item-mob__month">February</span></div>
+                    <div class="r-item-mob__header"><span class="r-item-mob__year">2021</span><span class="r-item-mob__month">February</span></div>
                     <div class="r-item-mob__body"><span class="r-item-mob__desc">Initial team members established</span></div>
                   </div>
                 </li>
                 <li class="col-sm-4 col-lg-3 wow fadeInUp">
                   <div class="r-item-mob r-item-mob_complete">
-                    <div class="r-item-mob__header"><span class="r-item-mob__year">2018</span><span class="r-item-mob__month">April</span></div>
+                    <div class="r-item-mob__header"><span class="r-item-mob__year">2021</span><span class="r-item-mob__month">April</span></div>
                     <div class="r-item-mob__body"><span class="r-item-mob__desc">Concept development</span></div>
                   </div>
                 </li>
                 <li class="col-sm-4 col-lg-3 wow fadeInUp">
                   <div class="r-item-mob r-item-mob_complete">
-                    <div class="r-item-mob__header"><span class="r-item-mob__year">2018</span><span class="r-item-mob__month">August</span></div>
+                    <div class="r-item-mob__header"><span class="r-item-mob__year">2021</span><span class="r-item-mob__month">August</span></div>
                     <div class="r-item-mob__body"><span class="r-item-mob__desc">Gateway for cryptocurrencies release</span></div>
                   </div>
                 </li>
                 <li class="col-sm-4 col-lg-3 wow fadeInUp">
                   <div class="r-item-mob r-item-mob_complete">
-                    <div class="r-item-mob__header"><span class="r-item-mob__year">2018</span><span class="r-item-mob__month">October</span></div>
+                    <div class="r-item-mob__header"><span class="r-item-mob__year">2021</span><span class="r-item-mob__month">October</span></div>
                     <div class="r-item-mob__body"><span class="r-item-mob__desc">Web GUI</span></div>
                   </div>
                 </li>
                 <li class="col-sm-4 col-lg-3 wow fadeInUp">
                   <div class="r-item-mob r-item-mob_complete">
-                    <div class="r-item-mob__header"><span class="r-item-mob__year">2018</span><span class="r-item-mob__month">November</span></div>
+                    <div class="r-item-mob__header"><span class="r-item-mob__year">2021</span><span class="r-item-mob__month">November</span></div>
                     <div class="r-item-mob__body"><span class="r-item-mob__desc">Official White Paper</span></div>
                   </div>
                 </li>
                 <li class="col-sm-4 col-lg-3 wow fadeInUp">
                   <div class="r-item-mob r-item-mob_complete">
-                    <div class="r-item-mob__header"><span class="r-item-mob__year">2018</span><span class="r-item-mob__month">December</span></div>
+                    <div class="r-item-mob__header"><span class="r-item-mob__year">2021</span><span class="r-item-mob__month">December</span></div>
                     <div class="r-item-mob__body"><span class="r-item-mob__desc">Mac/Win/Linux GUI apps</span></div>
                   </div>
                 </li>
                 <li class="col-sm-4 col-lg-3 wow fadeInUp">
                   <div class="r-item-mob r-item-mob_complete">
-                    <div class="r-item-mob__header"><span class="r-item-mob__year">2019</span><span class="r-item-mob__month">January</span></div>
+                    <div class="r-item-mob__header"><span class="r-item-mob__year">2022</span><span class="r-item-mob__month">January</span></div>
                     <div class="r-item-mob__body"><span class="r-item-mob__desc">Proof-of-node release</span></div>
                   </div>
                 </li>
                 <li class="col-sm-4 col-lg-3 wow fadeInUp">
                   <div class="r-item-mob r-item-mob_complete">
-                    <div class="r-item-mob__header"><span class="r-item-mob__year">2019</span><span class="r-item-mob__month">February</span></div>
+                    <div class="r-item-mob__header"><span class="r-item-mob__year">2022</span><span class="r-item-mob__month">February</span></div>
                     <div class="r-item-mob__body"><span class="r-item-mob__desc">Official Blockchain Launch</span></div>
                   </div>
                 </li>
                 <li class="col-sm-4 col-lg-3 wow fadeInUp">
                   <div class="r-item-mob r-item-mob_complete">
-                    <div class="r-item-mob__header"><span class="r-item-mob__year">2019</span><span class="r-item-mob__month">February</span></div>
+                    <div class="r-item-mob__header"><span class="r-item-mob__year">2022</span><span class="r-item-mob__month">February</span></div>
                     <div class="r-item-mob__body"><span class="r-item-mob__desc">AirDrop</span></div>
                   </div>
                 </li>
                 <li class="col-sm-4 col-lg-3 wow fadeInUp">
                   <div class="r-item-mob r-item-mob_complete">
-                    <div class="r-item-mob__header"><span class="r-item-mob__year">2019</span><span class="r-item-mob__month">February</span></div>
-                    <div class="r-item-mob__body"><span class="r-item-mob__desc">LocalCoin ICO and coin pre-sale launch</span></div>
+                    <div class="r-item-mob__header"><span class="r-item-mob__year">2022</span><span class="r-item-mob__month">February</span></div>
+                    <div class="r-item-mob__body"><span class="r-item-mob__desc">Amcc ICO and coin pre-sale launch</span></div>
                   </div>
                 </li>
                 <li class="col-sm-4 col-lg-3 wow fadeInUp">
                   <div class="r-item-mob r-item-mob_complete">
-                    <div class="r-item-mob__header"><span class="r-item-mob__year">2019</span><span class="r-item-mob__month">February</span></div>
+                    <div class="r-item-mob__header"><span class="r-item-mob__year">2022</span><span class="r-item-mob__month">February</span></div>
                     <div class="r-item-mob__body"><span class="r-item-mob__desc">DEX (decentralised exchange) launch</span></div>
                   </div>
                 </li>
                 <li class="col-sm-4 col-lg-3 wow fadeInUp">
                   <div class="r-item-mob r-item-mob_complete">
-                    <div class="r-item-mob__header"><span class="r-item-mob__year">2019</span><span class="r-item-mob__month">March</span></div>
+                    <div class="r-item-mob__header"><span class="r-item-mob__year">2022</span><span class="r-item-mob__month">March</span></div>
                     <div class="r-item-mob__body"><span class="r-item-mob__desc">Gateway for additional cryptocurrencies</span></div>
                   </div>
                 </li>
                 <li class="col-sm-4 col-lg-3 wow fadeInUp">
                   <div class="r-item-mob r-item-mob_complete">
-                    <div class="r-item-mob__header"><span class="r-item-mob__year">2019</span><span class="r-item-mob__month">July</span></div>
+                    <div class="r-item-mob__header"><span class="r-item-mob__year">2022</span><span class="r-item-mob__month">July</span></div>
                     <div class="r-item-mob__body"><span class="r-item-mob__desc">Airdrop: Second round</span></div>
                   </div>
                 </li>
                 <li class="col-sm-4 col-lg-3 wow fadeInUp">
                   <div class="r-item-mob">
-                    <div class="r-item-mob__header"><span class="r-item-mob__year">2019</span><span class="r-item-mob__month">Q4</span></div>
-                    <div class="r-item-mob__body"><span class="r-item-mob__desc">LocalCoin OTC release</span></div>
+                    <div class="r-item-mob__header"><span class="r-item-mob__year">2022</span><span class="r-item-mob__month">Q4</span></div>
+                    <div class="r-item-mob__body"><span class="r-item-mob__desc">AMCC OTC release</span></div>
                   </div>
                 </li>
                 <li class="col-sm-4 col-lg-3 wow fadeInUp">
                   <div class="r-item-mob">
-                    <div class="r-item-mob__header"><span class="r-item-mob__year">2019</span><span class="r-item-mob__month">Q4</span></div>
+                    <div class="r-item-mob__header"><span class="r-item-mob__year">2022</span><span class="r-item-mob__month">Q4</span></div>
                     <div class="r-item-mob__body"><span class="r-item-mob__desc">GUI blind transactions release</span></div>
                   </div>
                 </li>
                 <li class="col-sm-4 col-lg-3 wow fadeInUp">
                   <div class="r-item-mob">
-                    <div class="r-item-mob__header"><span class="r-item-mob__year">2019</span><span class="r-item-mob__month">Q4</span></div>
+                    <div class="r-item-mob__header"><span class="r-item-mob__year">2022</span><span class="r-item-mob__month">Q4</span></div>
                     <div class="r-item-mob__body"><span class="r-item-mob__desc">Blockchain Dice release</span></div>
                   </div>
                 </li>
